@@ -1,2 +1,3 @@
-# C-digo-em-JS---Beecrowd
+# Código em JS Beecrowd
+
 Questões realizadas na plataforma Beecrowd.
